@@ -1,0 +1,3 @@
+number = input(int("enter number"))
+number=number*2
+print(number,"your number times 2")
